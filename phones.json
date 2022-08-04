@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Google Pixel 6 pro - Black",
+    "image": "https://d3m9l0v76dty0.cloudfront.net/system/photos/9473477/original/58f093b0679ac98e592199927f0a64e9.jpg",
+    "price": 900,
+    "company": "Google",
+    "info": "128 GB storage, Dual-Sim 5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+  },
+  {
+    "id": 2,
+    "title": "Samsung S10",
+    "image": "https://cdn11.bigcommerce.com/s-ss31ap/images/stencil/1280x1280/products/7239/21735/Samsung_Galaxy_S10_SM-G970U_128Gb_Black__73345.1630374083.jpg?c=2",
+    "price": 1486,
+    "company": "Samsung",
+    "info": "Samsung Galaxy S10 is a smartphone powered by Android 9.0 Pie, Stereo speakers and Triple rear camera 12MP (Wide) + 12MP (Telephoto) + 16MP (Ultrawide) with LED flash."
+  },
+  {
+    "id": 3,
+    "title": "Htc 10",
+    "image": "https://www.technobuffalo.com/sites/technobuffalo.com/files/styles/large/public/wp/2016/11/htc-bolt-1-1.jpg",
+    "price": 600,
+    "company": "Htc",
+    "info": "The HTC 10 is more than just the company's flagship smartphone for 2016. It is what will hopefully bring HTC back on its feet after years of losing precious market share. Knowing this, HTC has done its best to make the 10 as awesome as possible. The phone has the looks and specs to impress, while the software, based on Android 6.0, promises a smooth, fun user experience. Furthermore, the HTC 10 and its reinvented UltraPixel camera hope to wow us with its images and videos. Alas, the front-facing stereo speakers have been dropped, but instead, we're given dedicated woofer and tweeter, powered by individual amplifiers."
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy S9",
+    "image": "https://d3m9l0v76dty0.cloudfront.net/system/photos/4658708/large/03e9c078c7ddc646fcc7e2b0e62e34a1.jpg",
+    "price": 410,
+    "company": "Samsung",
+    "info": "he Samsung Galaxy S9 is the company's flagship smartphone for 2018. As such, it comes with a top-notch specs sheet and a design to match. The phone adopts the near-bezelless construction and Infinity Display design of its predecessor, adding a couple of new colors to the mix. Key stand-out features include the upgraded camera with variable aperture, 960fps super slow-motion videos, and AR emoji. In addition, the Galaxy S9 brings stereo speakers and a fingerprint scanner placed below the camera."
+  },
+  {
+    "id": 5,
+    "title": "HTC Desire 626s",
+    "image": "https://fdn2.gsmarena.com/vv/pics/htc/htc-desire-626s-5.jpg",
+    "price": 200,
+    "company": "Htc",
+    "info": "The phone comes with a 5.00-inch touchscreen display offering a resolution of 720x1280 pixels. HTC Desire 626s is powered by a 1.1GHz quad-core Qualcomm Snapdragon 210 processor. It comes with 1GB of RAM. The HTC Desire 626s runs Android 5.1 and is powered by a 2000mAh removable battery."
+  },
+  {
+    "id": 6,
+    "title": "Iphone 12",
+    "image": "https://hotstore.hotmobile.co.il/media/catalog/product/cache/a73c0d5d6c75fbb1966fe13af695aeb7/h/6/h69114087_1000x1000_3_1.png",
+    "price": 400,
+    "company": "Apple",
+    "info": "The iPhone 12 and iPhone 12 mini were Apple's mainstream flagship iPhones for 2020. The phones come in 6.1-inch and 5.4-inch sizes with identical features, including support for 5G cellular networks, OLED displays, improved cameras, and Apple's A14 chip, all in a completely refreshed design."
+  },
+  {
+    "id": 7,
+    "title": "Iphone 11",
+    "image": "https://www.setapp.co.il/images/itempics/259606_260920191754541.jpg",
+    "price": 300,
+    "company": "Apple",
+    "info": "The iPhone 11 has a 6.1 in (15.5 cm) IPS LCD, unlike the Pro models which have OLED displays. The resolution is 1792 × 828 pixels (1.5 megapixels at 326 ppi) with a maximum brightness of 625 nits and a 1400:1 contrast ratio. It supports Dolby Vision, HDR10, True-Tone, and a wide color gamut."
+  },
+  {
+    "id": 8,
+    "title": "Nokia 6 ",
+    "image": "https://www.setapp.co.il/images/itempics/259758_11102019004114.jpg",
+    "price": 70,
+    "company": "Nokia",
+    "info": "Powered by the Qualcomm Snapdragon 430 Processor and 3 GB of RAM, along with a 3000 mAh battery, the Nokia 6 phone executes any task that you throw at it seamlessly. You can use its 32 GB of internal (expandable up to 128 GB) for your music, photos, videos and other apps."
+  },
+  {
+    "id": 9,
+    "title": "Xiaomi Redmi Note 10S",
+    "image": "https://imobileisrael.co.il/wp-content/uploads/2022/05/62151957c.jpg",
+    "price": 180,
+    "company": "Xiaomi",
+    "info": "The Redmi Note 10S is a slightly more powerful version of the Redmi Note 10, which was launched in March this year. The Redmi Note 10 is still a capable smartphone and it managed a good score in our review. Xiaomi claims to have improved upon the Redmi Note 10 by using a different processor, more RAM, and a higher resolution primary camera sensor, all for a small bump in price. Should you pay the premium for the Redmi Note 10S, or spend this money elsewhere? I put the Redmi Note 10S through our tests to find out."
+  },
+  {
+    "id": 10,
+    "title": "Xiaomi POCO M4 Pro 5G",
+    "image": "https://bstore.bezeq.co.il/media/33521/740-1.jpg",
+    "price": 240,
+    "company": "Xiaomi",
+    "info": "Xiaomi Poco M4 Pro 5G is a fast, smart and beautifully designed device, made to be your ideal companion in everyday life. It comes with a large 90Hz display that offers an impressive viewing experience. The Xiaomi Poco M4 Pro 5G is equipped with a snappy MediaTek chipset that can perform all tasks extremely easily and quickly. There is also an excellent 50 MP camera, as well as a front 16 MP camera which helps you to capture beautiful selfies."
+  },
+  {
+    "id": 11,
+    "title": "Samsung Galaxy A13",
+    "image": "https://www.cwc.co.il/images/itempics/B018882_10042022120013_large.jpg",
+    "price": 200,
+    "company": "Samsung",
+    "info": "The Samsung Galaxy A13 5G is a budget phone that comes with 6.5-inch display with 90Hz refresh rate and MediaTek Dimensity 700 processor. Specs also include 5000mAh battery with 15W charging speed, Triple camera setup on the back with 50MP main sensor and 5MP front selfie shooter."
+  },
+  {
+    "id": 12,
+    "title": "IPhone 13 Pro",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6443/6443454_sd.jpg",
+    "price": 1300,
+    "company": "Apple",
+    "info": "The iPhone 13 Pro is Apple's smaller premium iPhone with a 6.1 screen size and for the first time in an iPhone, it comes with a 120Hz ProMotion display for super smooth scrolling. The list of innovations includes a more capable triple camera setup, with a wide, ultra-wide and zoom cameras, as well as a LiDAR scanner."
+  },
+  {
+    "id": 13,
+    "title": "IPhone X",
+    "image": "https://www.smilephone.co.il/stores/20266/n/16127063910-1.jpg",
+    "price": 350,
+    "company": "Apple",
+    "info": "The iPhone X (pronounced 'ten') was created to commemorate the 10th anniversary of the iPhone launch. It showcased an all-new design with Face ID, a full-screen display, and a stainless-steel frame. The new price point, move from Face ID to Touch ID, and 'notch' were controversial at the time but have since become accepted features."
+  },
+  {
+    "id": 14,
+    "title": "Xiaomi 12",
+    "image": "https://i01.appmifile.com/webfile/globalimg/Iris/xiaomi-12-blue.png",
+    "price": 200,
+    "company": "Xiaomi",
+    "info": "The Xiaomi 12 Pro comes with 6.73-inch AMOLED display with 120Hz refresh rate and Qualcomm Snapdragon 8 Gen 1 processor. Specs also include 4600mAh battery with 120W charging speed combined with 50W wireless charging, Triple camera setup on the back with 50MP main sensor and 32MP selfie camera on the front."
+  },
+  {
+    "id": 15,
+    "title": "Samsung Galaxy S20",
+    "image": "https://images.samsung.com/is/image/samsung/assets/levant/smartphones/galaxy-s20/buy/S20-FE_Navy_SKUimage_MO-img.jpg",
+    "price": 1500,
+    "company": "Samsung",
+    "info": "The Samsung Galaxy S20 isn’t the most cutting-edge of Samsung’s S20 lineup – that honor goes to the Galaxy S20 Ultra – but it’s still a powerful phone with an ergonomic and attractive design, and the introduction of new features like 5G, the 120Hz display and upgraded rear cameras make it an outstanding handset in its own right."
+  },
+  {
+    "id": 16,
+    "title": "HTC One M7",
+    "image": "https://i.ebayimg.com/images/g/KW0AAMXQ855Rsjpa/s-l500.jpg",
+    "price": 100,
+    "company": "Htc",
+    "info": "HTC M7 vs HTC One Mini LTE vs Xiaomi Mi 11 Ultra comparison by specification, camera, battery, price. Compare HTC M7 vs HTC One Mini LTE Differences including the Price, Camera, Display, Performance, Ram, Storage, Battery, Operating System, Network Connectivity, Multimedia Warranty Critic Rating, User Rating and more."
+  }
+]

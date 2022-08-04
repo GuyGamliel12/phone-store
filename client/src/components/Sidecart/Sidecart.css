@@ -1,0 +1,50 @@
+.sidecart-wrapper {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.7);
+  inset: 0;
+  z-index: 100;
+  height: 100%;
+}
+.sidecart {
+  background-color: #fff;
+  width: 410px;
+  height: 100%;
+  position: absolute;
+  right: 0;
+  overflow-y: auto;
+}
+.sidecart h1 {
+  background: #171717 400px;
+  color: #fff;
+  padding: 1rem 1rem;
+  border-radius: 20px;
+}
+.sidecart-phone img {
+  width: 40px;
+}
+.sidecart-phone p {
+  font-size: smaller;
+}
+.sidecart-phone button {
+  padding: 1.5px 3px;
+}
+.full-cart button {
+  padding: 10px;
+  width: 60%;
+  background: #171717;
+  color: #f4f4f4;
+  border: 1px solid #171717;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.full-cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+@media (max-width: 450px) {
+  .sidecart {
+    width: 320px;
+  }
+}

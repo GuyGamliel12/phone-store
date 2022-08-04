@@ -1,0 +1,42 @@
+.phone-wrapper {
+  width: 275px;
+  background-color: #fff;
+  padding: 1rem, 2rem;
+  text-align: center;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 8px auto;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  display: flex;
+  transition: 1s;
+  border: 1px solid #171717;
+  border-radius: 10px;
+}
+.phone-wrapper:hover {
+  transform: scale(1.1);
+  z-index: 2;
+}
+.phone-image > img {
+  height: 170px;
+  border-radius: 8px;
+}
+.phone-info {
+  text-align: center;
+}
+.phone-title {
+  font-size: 1rem;
+  overflow: hidden;
+}
+.phone-price {
+  font-weight: bold;
+  font-size: medium;
+}
+.phone-info > p > button {
+  grid-column: 1/-1;
+  padding: 10px 16px;
+  background: #171717;
+  color: #f4f4f4ff;
+  border: 1px solid #171717;
+  cursor: pointer;
+  border-radius: 5px;
+}

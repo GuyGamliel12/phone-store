@@ -1,0 +1,31 @@
+.company-sort {
+  position: relative;
+  display: inline-block;
+  font-size: 14px;
+  color: #171717;
+}
+.company-sort select {
+  width: 200px;
+  min-height: 35px;
+  background: #fff;
+  border-radius: 3px;
+  border: 2px solid #171717;
+  outline: none;
+  padding: 0 10px;
+  width: 100%;
+  cursor: pointer;
+  margin-top: 5px;
+  appearance: none;
+}
+.company-sort::after {
+  content: "";
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent;
+  border-top-color: #171717;
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+  bottom: 15px;
+  border-radius: 2px;
+}

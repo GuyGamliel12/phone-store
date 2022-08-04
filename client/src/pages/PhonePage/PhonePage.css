@@ -1,0 +1,61 @@
+.phone-page {
+  max-width: 1300px;
+  margin: 1rem auto;
+  display: flex;
+  flex: 0.8;
+}
+.image-phone {
+  margin: 1rem;
+  flex: 0.55;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  padding: 10px 16px;
+  width: 100%;
+}
+.image-phone > img {
+  height: 400px;
+  border-radius: 8px;
+}
+.info-phone {
+  margin: 1rem;
+  flex: 0.4;
+  background-color: #fff;
+  height: fit-content;
+  font-size: 0.9rem;
+}
+.info-phone > p {
+  padding: 1rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+}
+.name-phone {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.description-phone {
+  font-size: 1rem;
+}
+.info-phone > p :last-child {
+  border: none;
+}
+.phone-page button {
+  grid-column: 1/-1;
+  width: 100%;
+  padding: 10px 16px;
+  background-color: #171717;
+  color: #f4f4f4;
+  border: 1px solid #171717;
+  cursor: pointer;
+}
+@media (max-width: 700px) {
+  .phone-page {
+    flex-direction: column;
+  }
+  .info-phone {
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .image-phone img {
+    flex: 1;
+    width: 85%;
+  }
+}
