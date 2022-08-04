@@ -45,11 +45,3 @@ This tells Webpack development server to proxy our API requests to our API serve
 Visit my [blog post](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0) entry for a detailed step-by-step guide.
 
 [Deployed app](https://cra-express.herokuapp.com/)
-
-## Giving Back
-
-If you would like to support my work and the time I put in making tutorials, you can click the image below to get me a coffee. I would really appreciate it (but is not required).
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/esausilva)
-
--Esau
